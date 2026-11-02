@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+experiments/results/*.csv
+experiments/results/*.html
+experiments/results/*.txt

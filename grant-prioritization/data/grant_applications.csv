@@ -1,0 +1,61 @@
+application_id,project_name,region,sector,requested_amount,poverty_reduction_score,employment_generation_score,healthcare_impact_score,education_impact_score,beneficiaries_score
+SIM-001,Digital Learning Centre 01,West,Education,5910000,8,7,6,6,7
+SIM-002,Maternal Health Outreach 02,North,Healthcare,2910000,7,7,7,7,7
+SIM-003,Women’s Livelihood Collective 03,West,Rural Development,10870000,8,5,4,8,9
+SIM-004,Microenterprise Incubator 04,South,Employment,1920000,8,10,6,7,7
+SIM-005,Safe Water Kiosks 05,Central,Drinking Water,7550000,6,5,8,9,5
+SIM-006,School Retention Initiative 06,South,Education,8240000,9,6,6,6,8
+SIM-007,Rural Diagnostic Hub 07,Central,Healthcare,790000,9,5,7,4,7
+SIM-008,Climate-Resilient Agriculture 08,East,Rural Development,2290000,5,8,6,7,8
+SIM-009,Youth Skills Academy 09,North-East,Employment,1950000,6,10,7,6,6
+SIM-010,Village Water Security 10,East,Drinking Water,8210000,6,7,5,5,8
+SIM-011,Community Library Network 11,North-East,Education,8570000,9,8,7,8,8
+SIM-012,Telemedicine Access 12,West,Healthcare,3210000,8,7,8,5,7
+SIM-013,Farmer Producer Support 13,North,Rural Development,5900000,10,8,9,6,7
+SIM-014,Artisan Market Linkage 14,West,Employment,11210000,9,9,3,6,6
+SIM-015,Groundwater Recharge 15,North,Drinking Water,4310000,8,6,8,8,8
+SIM-016,STEM Lab Access 16,Central,Education,4770000,6,6,5,8,5
+SIM-017,Mobile Primary Care 17,South,Healthcare,12260000,9,4,4,7,6
+SIM-018,Village Infrastructure Plan 18,Central,Rural Development,10790000,10,6,8,8,7
+SIM-019,Green Jobs Training 19,South,Employment,2130000,6,7,7,5,8
+SIM-020,Water Quality Monitoring 20,North-East,Drinking Water,4110000,6,7,6,5,8
+SIM-021,Digital Learning Centre 21,East,Education,1380000,6,5,6,7,6
+SIM-022,Maternal Health Outreach 22,North-East,Healthcare,9690000,8,7,9,9,5
+SIM-023,Women’s Livelihood Collective 23,East,Rural Development,8400000,8,8,8,6,7
+SIM-024,Microenterprise Incubator 24,North,Employment,1270000,8,8,5,6,7
+SIM-025,Safe Water Kiosks 25,West,Drinking Water,11280000,9,6,8,7,9
+SIM-026,School Retention Initiative 26,North,Education,10740000,6,8,8,9,6
+SIM-027,Rural Diagnostic Hub 27,West,Healthcare,1330000,9,4,9,7,7
+SIM-028,Climate-Resilient Agriculture 28,South,Rural Development,6790000,9,8,7,6,8
+SIM-029,Youth Skills Academy 29,Central,Employment,8840000,8,8,6,6,6
+SIM-030,Village Water Security 30,South,Drinking Water,6680000,8,6,8,6,6
+SIM-031,Community Library Network 31,Central,Education,9610000,6,9,8,8,8
+SIM-032,Telemedicine Access 32,East,Healthcare,3600000,6,6,10,7,6
+SIM-033,Farmer Producer Support 33,North-East,Rural Development,10820000,5,8,7,5,7
+SIM-034,Artisan Market Linkage 34,East,Employment,9790000,6,7,4,4,6
+SIM-035,Groundwater Recharge 35,North-East,Drinking Water,10810000,5,6,8,7,7
+SIM-036,STEM Lab Access 36,West,Education,4970000,5,7,6,8,8
+SIM-037,Mobile Primary Care 37,North,Healthcare,1740000,4,4,8,4,7
+SIM-038,Village Infrastructure Plan 38,West,Rural Development,5050000,9,9,5,7,7
+SIM-039,Green Jobs Training 39,North,Employment,2900000,6,9,5,9,9
+SIM-040,Water Quality Monitoring 40,Central,Drinking Water,9020000,10,7,7,10,8
+SIM-041,Digital Learning Centre 41,South,Education,9650000,6,8,5,9,9
+SIM-042,Maternal Health Outreach 42,Central,Healthcare,6280000,6,7,10,4,4
+SIM-043,Women’s Livelihood Collective 43,South,Rural Development,12070000,9,7,7,8,7
+SIM-044,Microenterprise Incubator 44,North-East,Employment,11400000,4,8,5,5,8
+SIM-045,Safe Water Kiosks 45,East,Drinking Water,3400000,7,4,7,5,8
+SIM-046,School Retention Initiative 46,North-East,Education,11450000,8,8,6,9,7
+SIM-047,Rural Diagnostic Hub 47,East,Healthcare,3310000,6,5,6,6,4
+SIM-048,Climate-Resilient Agriculture 48,North,Rural Development,7810000,8,7,9,7,7
+SIM-049,Youth Skills Academy 49,West,Employment,840000,7,8,7,6,8
+SIM-050,Village Water Security 50,North,Drinking Water,8490000,5,6,10,5,6
+SIM-051,Community Library Network 51,West,Education,4620000,3,6,3,9,6
+SIM-052,Telemedicine Access 52,South,Healthcare,6720000,4,6,10,7,8
+SIM-053,Farmer Producer Support 53,Central,Rural Development,11020000,9,8,6,4,8
+SIM-054,Artisan Market Linkage 54,South,Employment,3730000,5,8,5,7,7
+SIM-055,Groundwater Recharge 55,Central,Drinking Water,11890000,7,7,8,6,8
+SIM-056,STEM Lab Access 56,East,Education,5240000,7,7,7,7,6
+SIM-057,Mobile Primary Care 57,North-East,Healthcare,10060000,7,7,9,6,6
+SIM-058,Village Infrastructure Plan 58,East,Rural Development,10700000,8,7,6,6,6
+SIM-059,Green Jobs Training 59,North-East,Employment,1570000,8,10,7,5,8
+SIM-060,Water Quality Monitoring 60,West,Drinking Water,6070000,9,8,8,8,8
